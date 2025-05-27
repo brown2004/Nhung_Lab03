@@ -1,0 +1,13 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+../../TouchGFX/generated/gui_generated/include/gui_generated/screen2_screen/Screen2ViewBase.hpp:25:18:virtual void Screen2ViewBase::ExitFromScreen2()	1
+D:/SOURCE/EGG/SimpleRacing/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:180:6:virtual bool Screen2View::checkCollision(const touchgfx::Image&, const touchgfx::Image&)	4
+D:/SOURCE/EGG/SimpleRacing/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:161:6:virtual void Screen2View::resetGame()	2
+D:/SOURCE/EGG/SimpleRacing/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:26:6:virtual void Screen2View::tearDownScreen()	1
+../../TouchGFX/gui/include/gui/screen2_screen/Screen2View.hpp:11:13:Screen2View::~Screen2View()	1
+../../TouchGFX/gui/include/gui/screen2_screen/Screen2View.hpp:11:13:virtual Screen2View::~Screen2View()	1
+D:/SOURCE/EGG/SimpleRacing/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:9:1:Screen2View::Screen2View()	1
+D:/SOURCE/EGG/SimpleRacing/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:13:6:virtual void Screen2View::setupScreen()	1
+D:/SOURCE/EGG/SimpleRacing/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:32:6:virtual void Screen2View::handleTickEvent()	15
+D:/SOURCE/EGG/SimpleRacing/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:123:6:virtual void Screen2View::updatePoint(int)	1
+D:/SOURCE/EGG/SimpleRacing/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:130:6:virtual void Screen2View::updateHearts()	5
